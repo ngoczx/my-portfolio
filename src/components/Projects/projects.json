@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Portfolio",
+    "img": "https://i.imgur.com/21HnNya.png",
+    "link": "https://ngocflix.vercel.app/",
+    "description": "Made with ReactJS",
+    "github": "https://github.com/ngoczx/film-web"
+  },
+  {
+    "id": 3,
+    "name": "Film Web",
+    "img": "https://i.imgur.com/5YEDL2c.png",
+    "link": "https://ngocflix.vercel.app/",
+    "description": "Made with ReactJS & TailwindCSS",
+    "github": "https://github.com/ngoczx/film-web"
+  },
+  {
+    "id": 1,
+    "name": "Music Player",
+    "img": "https://i.imgur.com/7OK0jgQ.png",
+    "link": "https://ngocmusic.vercel.app/",
+    "description": "Made with ReactJS & TailwindCSS",
+    "github": "https://github.com/ngoczx/music-player"
+  },
+  {
+    "id": 2,
+    "name": "Anime Search",
+    "img": "https://i.imgur.com/GgVBbSZ.png",
+    "link": "https://ngocanime.vercel.app/",
+    "description": "Made with ReactJS & JikanAPI",
+    "github": "https://github.com/ngoczx/anime-search"
+  }
+]

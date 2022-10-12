@@ -1,0 +1,48 @@
+.footer {
+  padding: 10px;
+  text-align: center;
+  color: white;
+  margin-top: 74px;
+  background-color: var(--primary);
+}
+
+.cv {
+  margin: -44px 20px 0px;
+  padding: 30px 40px;
+  background-color: #141c3a;
+  display: flex;
+  border-radius: 12px;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 5px 5px 0 rgb(0 0 0 / 20%), 0 0 0 1px #141c3a;
+}
+
+.btn-cv {
+  font-size: 14px;
+  cursor: pointer;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 24px;
+  border: 2px solid #5be9b9;
+  background-color: #141c3a;
+}
+
+.btn-cv:hover {
+  background-color: #5be9b9;
+}
+
+.text {
+  margin-top: 70px;
+}
+
+@media screen and (max-width: 767px) {
+  .cv {
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 1536px) {
+  .cv {
+    margin: -44px 300px 0px;
+  }
+}
